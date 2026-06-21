@@ -569,42 +569,6 @@
   {
     "id": "tt012",
     "category": "Tandoori Paneer Tikka",
-    "name": "Mushroom Tikka",
-    "price": "₹280",
-    "description": "",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
-    "id": "tt013",
-    "category": "Tandoori Paneer Tikka",
-    "name": "Mushroom Galauti Tikka",
-    "price": "₹300",
-    "description": "",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
-    "id": "tt014",
-    "category": "Tandoori Paneer Tikka",
-    "name": "Hara Bhara",
-    "price": "₹260",
-    "description": "Guest's Fav",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
-    "id": "tt015",
-    "category": "Tandoori Paneer Tikka",
-    "name": "Star Mushroom Tikka",
-    "price": "₹330",
-    "description": "",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
-    "id": "tt016",
-    "category": "Tandoori Paneer Tikka",
     "name": "Tandoori Platter (6 Pcs)",
     "price": "₹500",
     "description": "",
@@ -612,17 +576,8 @@
     "available": true
   },
   {
-    "id": "tt017",
-    "category": "Tandoori Paneer Tikka",
-    "name": "Aloo Nazakat",
-    "price": "₹290",
-    "description": "",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
     "id": "vc001",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Crispy Fry",
     "price": "₹150",
     "description": "",
@@ -631,7 +586,7 @@
   },
   {
     "id": "vc002",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Chilli",
     "price": "₹230",
     "description": "",
@@ -640,7 +595,7 @@
   },
   {
     "id": "vc003",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Jhangli",
     "price": "₹290",
     "description": "",
@@ -649,7 +604,7 @@
   },
   {
     "id": "vc004",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Crispy Veg",
     "price": "₹170",
     "description": "Guest's Fav",
@@ -658,7 +613,7 @@
   },
   {
     "id": "vc005",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Veg Crunchy",
     "price": "₹230",
     "description": "",
@@ -667,7 +622,7 @@
   },
   {
     "id": "vc006",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Butter Corn",
     "price": "₹210",
     "description": "",
@@ -676,7 +631,7 @@
   },
   {
     "id": "vc007",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Veg Shanghai Roll",
     "price": "₹270",
     "description": "",
@@ -685,7 +640,7 @@
   },
   {
     "id": "vc008",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Gobi Chilli",
     "price": "₹170",
     "description": "",
@@ -694,7 +649,7 @@
   },
   {
     "id": "vc009",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer 65",
     "price": "₹240",
     "description": "Guest's Fav · Chef's Special",
@@ -703,7 +658,7 @@
   },
   {
     "id": "vc010",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Hakka Noodles",
     "price": "₹170",
     "description": "",
@@ -712,7 +667,7 @@
   },
   {
     "id": "vc011",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Schezwan Noodles",
     "price": "₹170",
     "description": "",
@@ -721,7 +676,7 @@
   },
   {
     "id": "vc012",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "American Chole",
     "price": "₹170",
     "description": "",
@@ -730,7 +685,7 @@
   },
   {
     "id": "vc013",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Chochili",
     "price": "₹160",
     "description": "",
@@ -739,7 +694,7 @@
   },
   {
     "id": "vc014",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Comling",
     "price": "₹240",
     "description": "",
@@ -748,7 +703,7 @@
   },
   {
     "id": "vc015",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Veg Manchurian",
     "price": "₹180",
     "description": "",
@@ -757,7 +712,7 @@
   },
   {
     "id": "vc016",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Crispy Corn",
     "price": "₹190",
     "description": "",
@@ -766,7 +721,7 @@
   },
   {
     "id": "vc017",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Black Pepper",
     "price": "₹220",
     "description": "NEW",
@@ -775,7 +730,7 @@
   },
   {
     "id": "vc018",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Veg Spring Roll",
     "price": "₹250",
     "description": "NEW",
@@ -784,7 +739,7 @@
   },
   {
     "id": "vc019",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Chilli Potato",
     "price": "₹220",
     "description": "NEW",
@@ -793,7 +748,7 @@
   },
   {
     "id": "vc020",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Dragon",
     "price": "₹210",
     "description": "NEW",
@@ -802,7 +757,7 @@
   },
   {
     "id": "vc021",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Mushroom Noodles",
     "price": "₹190",
     "description": "",
@@ -811,7 +766,7 @@
   },
   {
     "id": "vc022",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Veg Chowmein",
     "price": "₹160",
     "description": "",
@@ -820,7 +775,7 @@
   },
   {
     "id": "vc023",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Chilli Mushroom",
     "price": "₹170",
     "description": "",
@@ -829,9 +784,55 @@
   },
   {
     "id": "vc024",
-    "category": "Veg Starters Chinese",
+    "category": "Veg Starters",
     "name": "Paneer Angara",
     "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc025",
+    "category": "Veg Starters",
+    "name": "Mushroom Tikka",
+    "price": "₹280",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc026",
+    "category": "Veg Starters",
+    "name": "Mushroom Galauti Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc027",
+    "category": "Veg Starters",
+    "name": "Hara Bhara",
+    "price": "₹260",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc028",
+    "category": "Veg Starters",
+    "name": "Star Mushroom Tikka",
+    "price": "₹330",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  
+  {
+    "id": "vc029",
+    "category": "Veg Starters",
+    "name": "Aloo Nazakat",
+    "price": "₹290",
     "description": "",
     "dietType": "VEG",
     "available": true
