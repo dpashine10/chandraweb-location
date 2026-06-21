@@ -119,6 +119,7 @@ export default function LocationGate({ children }: { children: React.ReactNode }
             <p className="text-sm mb-6" style={{ color: "rgba(26,18,11,0.6)" }}>
               It only unlocks while you&apos;re at the restaurant. Your browser will ask you
               to confirm — tap &quot;Allow&quot; on that prompt.
+              We added this for our safety, and apologise for any inconvience caused.
             </p>
             <button
               onClick={requestLocation}
@@ -155,7 +156,7 @@ export default function LocationGate({ children }: { children: React.ReactNode }
               You&apos;re not at the restaurant
             </p>
             <p className="text-sm mb-6" style={{ color: "rgba(26,18,11,0.6)" }}>
-              This menu only works within {ALLOWED_RADIUS_METERS}m of the restaurant
+              This menu only works within the restaurant. This is for our safety, Thank you for understanding.
               {distance !== null && ` — you're about ${Math.round(distance)}m away`}.
             </p>
             <button
@@ -181,7 +182,7 @@ export default function LocationGate({ children }: { children: React.ReactNode }
             </p>
             <p className="text-sm mb-6" style={{ color: "rgba(26,18,11,0.6)" }}>
               You&apos;ll need to allow location access for this site in your browser
-              settings, then try again.
+              settings, then try again. This is for our safety, thank you for understanding.
             </p>
             <button
               onClick={requestLocation}
@@ -190,6 +191,7 @@ export default function LocationGate({ children }: { children: React.ReactNode }
             >
               Try again
             </button>
+            <p className="text-sm mb-6" style={{ color: "rgba(26,18,11,0.6)" }}>If this doesn&apos;t work, please refresh the site.</p>
           </>
         )}
 

@@ -621,15 +621,6 @@
     "available": true
   },
   {
-    "id": "tt018",
-    "category": "Tandoori Paneer Tikka",
-    "name": "Paneer Jhakada / Special Tikka",
-    "price": "₹250",
-    "description": "",
-    "dietType": "VEG",
-    "available": true
-  },
-  {
     "id": "vc001",
     "category": "Veg Starters Chinese",
     "name": "Crispy Fry",
@@ -2215,7 +2206,7 @@
   },
   {
     "id": "nm023",
-    "category": "Non-Veg Main Course",
+    "category": "Non-Veg Handi",
     "name": "Mutton Bhuna (Half / Full)",
     "price": "₹420 / ₹780",
     "description": "",
@@ -2496,7 +2487,7 @@
     "id": "ex003",
     "category": "Extras",
     "name": "Ice Cream",
-    "price": "MRP + ₹5",
+    "price": "MRP + ₹10",
     "description": "",
     "dietType": "VEG",
     "available": true
