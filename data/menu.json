@@ -1,0 +1,2513 @@
+[
+  {
+    "id": "s001",
+    "category": "Soups",
+    "name": "Tomato Soup",
+    "price": "₹80 / ₹130",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s002",
+    "category": "Soups",
+    "name": "Hot & Sour Soup",
+    "price": "₹85 / ₹140",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s003",
+    "category": "Soups",
+    "name": "Palak Soup",
+    "price": "₹95 / ₹155",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s004",
+    "category": "Soups",
+    "name": "Veg Soup",
+    "price": "₹80 / ₹120",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s005",
+    "category": "Soups",
+    "name": "Cream of Broccoli Soup",
+    "price": "₹100 / ₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s006",
+    "category": "Soups",
+    "name": "Veg Manchow",
+    "price": "₹80 / ₹130",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s007",
+    "category": "Soups",
+    "name": "Lemon Coriander",
+    "price": "₹90 / ₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s008",
+    "category": "Soups",
+    "name": "Mushroom Soup",
+    "price": "₹90 / ₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s009",
+    "category": "Soups",
+    "name": "Sweet Corn Soup",
+    "price": "₹90 / ₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "s010",
+    "category": "Soups",
+    "name": "Chicken Manchow Soup",
+    "price": "₹100 / ₹130",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s011",
+    "category": "Soups",
+    "name": "Chicken Clear Soup",
+    "price": "₹100 / ₹130",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s012",
+    "category": "Soups",
+    "name": "Chicken Malaysian",
+    "price": "₹110 / ₹170",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s013",
+    "category": "Soups",
+    "name": "Chicken Pepper Soup",
+    "price": "₹110 / ₹160",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s014",
+    "category": "Soups",
+    "name": "Chicken Hot & Sour Soup",
+    "price": "₹110 / ₹135",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s015",
+    "category": "Soups",
+    "name": "Chicken Lemon Coriander",
+    "price": "₹110 / ₹140",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "s016",
+    "category": "Soups",
+    "name": "Chicken Sweet Corn",
+    "price": "₹120 / ₹180",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "p001",
+    "category": "Papad & Fry Items",
+    "name": "Fry Papad",
+    "price": "₹25",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p002",
+    "category": "Papad & Fry Items",
+    "name": "White Papad",
+    "price": "₹20",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p003",
+    "category": "Papad & Fry Items",
+    "name": "Butter Papad",
+    "price": "₹30",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p004",
+    "category": "Papad & Fry Items",
+    "name": "Masala Papad",
+    "price": "₹40",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p005",
+    "category": "Papad & Fry Items",
+    "name": "Roast Papad",
+    "price": "₹25",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p006",
+    "category": "Papad & Fry Items",
+    "name": "Garlic Fry",
+    "price": "₹60 / ₹120",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p007",
+    "category": "Papad & Fry Items",
+    "name": "Paneer Fry",
+    "price": "₹150",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p008",
+    "category": "Papad & Fry Items",
+    "name": "Peri Peri Fry Chips",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p009",
+    "category": "Papad & Fry Items",
+    "name": "Chana Oil Roast",
+    "price": "₹150",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p010",
+    "category": "Papad & Fry Items",
+    "name": "Green Pea Garlic Fry",
+    "price": "₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p011",
+    "category": "Papad & Fry Items",
+    "name": "Finger Chips",
+    "price": "₹150",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p012",
+    "category": "Papad & Fry Items",
+    "name": "Cheese Corn Ball",
+    "price": "₹260",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p013",
+    "category": "Papad & Fry Items",
+    "name": "Chilli Ball",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p014",
+    "category": "Papad & Fry Items",
+    "name": "Kaju Fry",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p015",
+    "category": "Papad & Fry Items",
+    "name": "Cheesy Potato",
+    "price": "₹210",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "p016",
+    "category": "Papad & Fry Items",
+    "name": "Paneer Roll",
+    "price": "₹150",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm001",
+    "category": "Salad & Mastani",
+    "name": "Green Salad",
+    "price": "₹40 / ₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm002",
+    "category": "Salad & Mastani",
+    "name": "Curd",
+    "price": "₹40",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm003",
+    "category": "Salad & Mastani",
+    "name": "Pineapple Raita",
+    "price": "₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm004",
+    "category": "Salad & Mastani",
+    "name": "Buttermilk",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm005",
+    "category": "Salad & Mastani",
+    "name": "Lassi",
+    "price": "₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm006",
+    "category": "Salad & Mastani",
+    "name": "Virgin",
+    "price": "₹90",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm007",
+    "category": "Salad & Mastani",
+    "name": "Kiwi",
+    "price": "₹80",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm008",
+    "category": "Salad & Mastani",
+    "name": "Kachumber Salad",
+    "price": "₹50 / ₹80",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm009",
+    "category": "Salad & Mastani",
+    "name": "Bundi Raita",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm010",
+    "category": "Salad & Mastani",
+    "name": "Mix Raita",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm011",
+    "category": "Salad & Mastani",
+    "name": "Chaas",
+    "price": "₹40",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm012",
+    "category": "Salad & Mastani",
+    "name": "Blue Lagoon",
+    "price": "₹80",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "sm013",
+    "category": "Salad & Mastani",
+    "name": "Orange",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk001",
+    "category": "Pakora",
+    "name": "Onion Pakora",
+    "price": "₹140",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk002",
+    "category": "Pakora",
+    "name": "Aloo Pakora",
+    "price": "₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk003",
+    "category": "Pakora",
+    "name": "Mix Pakora",
+    "price": "₹150",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk004",
+    "category": "Pakora",
+    "name": "Paneer Pakora",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk005",
+    "category": "Pakora",
+    "name": "Chilli Pakora",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk006",
+    "category": "Pakora",
+    "name": "Gobi Pakora",
+    "price": "₹120",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pk007",
+    "category": "Pakora",
+    "name": "Pullet Chat",
+    "price": "₹130",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt001",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Tikka",
+    "price": "₹240",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt002",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Haryali Tikka",
+    "price": "₹250",
+    "description": "Guest's Fav · Chef's Special",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt003",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Angara Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt004",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Akhbari Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt005",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Reshmi Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt006",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Malai Tikka",
+    "price": "₹260",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt007",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Lahori Tikka",
+    "price": "₹310",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt008",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Sufiyana Tikka",
+    "price": "₹290",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt009",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Mushroom Tikka",
+    "price": "₹280",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt010",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Seekh Kebab",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt011",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Cheese Corn Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt012",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Mushroom Tikka",
+    "price": "₹280",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt013",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Mushroom Galauti Tikka",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt014",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Hara Bhara",
+    "price": "₹260",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt015",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Star Mushroom Tikka",
+    "price": "₹330",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt016",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Tandoori Platter (6 Pcs)",
+    "price": "₹500",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt017",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Aloo Nazakat",
+    "price": "₹290",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "tt018",
+    "category": "Tandoori Paneer Tikka",
+    "name": "Paneer Jhakada / Special Tikka",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc001",
+    "category": "Veg Starters Chinese",
+    "name": "Crispy Fry",
+    "price": "₹150",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc002",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Chilli",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc003",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Jhangli",
+    "price": "₹290",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc004",
+    "category": "Veg Starters Chinese",
+    "name": "Crispy Veg",
+    "price": "₹170",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc005",
+    "category": "Veg Starters Chinese",
+    "name": "Veg Crunchy",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc006",
+    "category": "Veg Starters Chinese",
+    "name": "Butter Corn",
+    "price": "₹210",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc007",
+    "category": "Veg Starters Chinese",
+    "name": "Veg Shanghai Roll",
+    "price": "₹270",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc008",
+    "category": "Veg Starters Chinese",
+    "name": "Gobi Chilli",
+    "price": "₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc009",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer 65",
+    "price": "₹240",
+    "description": "Guest's Fav · Chef's Special",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc010",
+    "category": "Veg Starters Chinese",
+    "name": "Hakka Noodles",
+    "price": "₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc011",
+    "category": "Veg Starters Chinese",
+    "name": "Schezwan Noodles",
+    "price": "₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc012",
+    "category": "Veg Starters Chinese",
+    "name": "American Chole",
+    "price": "₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc013",
+    "category": "Veg Starters Chinese",
+    "name": "Chochili",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc014",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Comling",
+    "price": "₹240",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc015",
+    "category": "Veg Starters Chinese",
+    "name": "Veg Manchurian",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc016",
+    "category": "Veg Starters Chinese",
+    "name": "Crispy Corn",
+    "price": "₹190",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc017",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Black Pepper",
+    "price": "₹220",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc018",
+    "category": "Veg Starters Chinese",
+    "name": "Veg Spring Roll",
+    "price": "₹250",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc019",
+    "category": "Veg Starters Chinese",
+    "name": "Chilli Potato",
+    "price": "₹220",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc020",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Dragon",
+    "price": "₹210",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc021",
+    "category": "Veg Starters Chinese",
+    "name": "Mushroom Noodles",
+    "price": "₹190",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc022",
+    "category": "Veg Starters Chinese",
+    "name": "Veg Chowmein",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc023",
+    "category": "Veg Starters Chinese",
+    "name": "Chilli Mushroom",
+    "price": "₹170",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vc024",
+    "category": "Veg Starters Chinese",
+    "name": "Paneer Angara",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm001",
+    "category": "Paneer Main Course",
+    "name": "Paneer Charminar",
+    "price": "₹300",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm002",
+    "category": "Paneer Main Course",
+    "name": "Paneer Dhaba",
+    "price": "₹240",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm003",
+    "category": "Paneer Main Course",
+    "name": "Paneer Korma",
+    "price": "₹240",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm004",
+    "category": "Paneer Main Course",
+    "name": "Paneer Kadhai",
+    "price": "₹250",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm005",
+    "category": "Paneer Main Course",
+    "name": "Paneer Pasinda",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm006",
+    "category": "Paneer Main Course",
+    "name": "Paneer Seekh Masala",
+    "price": "₹320",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm007",
+    "category": "Paneer Main Course",
+    "name": "Paneer Akhbari Masala",
+    "price": "₹280",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm008",
+    "category": "Paneer Main Course",
+    "name": "Paneer Butter Masala",
+    "price": "₹230",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm009",
+    "category": "Paneer Main Course",
+    "name": "Shahi Paneer",
+    "price": "₹280",
+    "description": "Sweet",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm010",
+    "category": "Paneer Main Course",
+    "name": "Paneer Masala",
+    "price": "₹220",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm011",
+    "category": "Paneer Main Course",
+    "name": "Paneer Patiyala",
+    "price": "₹240",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm012",
+    "category": "Paneer Main Course",
+    "name": "Paneer Jaipuri",
+    "price": "₹280",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm013",
+    "category": "Paneer Main Course",
+    "name": "Paneer Mughlai Masala",
+    "price": "₹290",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm014",
+    "category": "Paneer Main Course",
+    "name": "Paneer Tikka Masala",
+    "price": "₹270",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm015",
+    "category": "Paneer Main Course",
+    "name": "Palak Paneer",
+    "price": "₹200",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm016",
+    "category": "Paneer Main Course",
+    "name": "Paneer Angara",
+    "price": "₹260",
+    "description": "Guest's Fav · Sizzler",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm017",
+    "category": "Paneer Main Course",
+    "name": "Paneer Chilli Masala",
+    "price": "₹310",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm018",
+    "category": "Paneer Main Course",
+    "name": "2 in 1 Platter (S)",
+    "price": "₹280",
+    "description": "Paneer + Mix Veg",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "pm019",
+    "category": "Paneer Main Course",
+    "name": "Paneer Lachedar",
+    "price": "₹250",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm001",
+    "category": "Veg Main Course",
+    "name": "Mix Veg",
+    "price": "₹200",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm002",
+    "category": "Veg Main Course",
+    "name": "Veg Angara",
+    "price": "₹260",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm003",
+    "category": "Veg Main Course",
+    "name": "Veg Diwani Handi",
+    "price": "₹240",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm004",
+    "category": "Veg Main Course",
+    "name": "Veg Jaipuri",
+    "price": "₹220",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm005",
+    "category": "Veg Main Course",
+    "name": "Veg Anda Curry",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm006",
+    "category": "Veg Main Course",
+    "name": "Veg Patiyala",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm007",
+    "category": "Veg Main Course",
+    "name": "Veg Kolapuri",
+    "price": "₹210",
+    "description": "Guest's Fav · Spicy 🌶",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm008",
+    "category": "Veg Main Course",
+    "name": "Veg Chakori",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm009",
+    "category": "Veg Main Course",
+    "name": "Veg Handi",
+    "price": "₹210",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm010",
+    "category": "Veg Main Course",
+    "name": "Veg Hyderabadi",
+    "price": "₹230",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm011",
+    "category": "Veg Main Course",
+    "name": "Veg Kima Kasturi",
+    "price": "₹260",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm012",
+    "category": "Veg Main Course",
+    "name": "Veg Maratha",
+    "price": "₹220",
+    "description": "Spicy 🌶",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm013",
+    "category": "Veg Main Course",
+    "name": "Veg Japrani",
+    "price": "₹260",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm014",
+    "category": "Veg Main Course",
+    "name": "Veg Mushroom",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm015",
+    "category": "Veg Main Course",
+    "name": "Gobi Masala",
+    "price": "₹200",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm016",
+    "category": "Veg Main Course",
+    "name": "Aloo Palak",
+    "price": "₹200",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm017",
+    "category": "Veg Main Course",
+    "name": "Jeera Aloo",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm018",
+    "category": "Veg Main Course",
+    "name": "Dum Aloo Punjabi",
+    "price": "₹260",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm019",
+    "category": "Veg Main Course",
+    "name": "Mushroom Kolapuri",
+    "price": "₹240",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm020",
+    "category": "Veg Main Course",
+    "name": "Tamatar Chutney",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm021",
+    "category": "Veg Main Course",
+    "name": "Chana Masala",
+    "price": "₹180",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm022",
+    "category": "Veg Main Course",
+    "name": "Bhindi Masala",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm023",
+    "category": "Veg Main Course",
+    "name": "Kaju Masala / Curry",
+    "price": "₹260 / ₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm024",
+    "category": "Veg Main Course",
+    "name": "Mushroom Masala / Curry",
+    "price": "₹230 / ₹220",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm025",
+    "category": "Veg Main Course",
+    "name": "Baigan Bhartha / Masala",
+    "price": "₹180 / ₹190",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm026",
+    "category": "Veg Main Course",
+    "name": "Chandra Special",
+    "price": "₹280",
+    "description": "Chef's Special",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm027",
+    "category": "Veg Main Course",
+    "name": "Veg Crunchy Masala",
+    "price": "₹280",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm028",
+    "category": "Veg Main Course",
+    "name": "Methi Matar Masala",
+    "price": "₹250",
+    "description": "Sweet",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm029",
+    "category": "Veg Main Course",
+    "name": "Mushroom Galauti Masala",
+    "price": "₹300",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vm030",
+    "category": "Veg Main Course",
+    "name": "Veg Gravy Extra",
+    "price": "₹100",
+    "description": "Add-on",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vk001",
+    "category": "Veg Kofta",
+    "name": "Malai Kofta",
+    "price": "₹270",
+    "description": "Guest's Fav · Sweet",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vk002",
+    "category": "Veg Kofta",
+    "name": "Paneer Kofta",
+    "price": "₹240",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vk003",
+    "category": "Veg Kofta",
+    "name": "Veg Kofta",
+    "price": "₹220",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "vk004",
+    "category": "Veg Kofta",
+    "name": "Mughlai Malai Kofta",
+    "price": "₹300",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr001",
+    "category": "Dal & Rice",
+    "name": "Dal Fry",
+    "price": "₹130",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr002",
+    "category": "Dal & Rice",
+    "name": "Jeera Dal",
+    "price": "₹120",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr003",
+    "category": "Dal & Rice",
+    "name": "Dal Punjabi",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr004",
+    "category": "Dal & Rice",
+    "name": "Dal Khichdi / Khichdi with Tadka",
+    "price": "₹220 / ₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr005",
+    "category": "Dal & Rice",
+    "name": "Dal Palak",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr006",
+    "category": "Dal & Rice",
+    "name": "Dal Tadka",
+    "price": "₹150",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr007",
+    "category": "Dal & Rice",
+    "name": "Dal Roast",
+    "price": "₹160",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr008",
+    "category": "Dal & Rice",
+    "name": "Dal Makhani",
+    "price": "₹250",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr009",
+    "category": "Dal & Rice",
+    "name": "Rice Plain",
+    "price": "₹80 / ₹130",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr010",
+    "category": "Dal & Rice",
+    "name": "Jeera Rice",
+    "price": "₹85 / ₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr011",
+    "category": "Dal & Rice",
+    "name": "Garlic Rice",
+    "price": "₹90 / ₹150",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr012",
+    "category": "Dal & Rice",
+    "name": "Tomato Rice",
+    "price": "₹90 / ₹140",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr013",
+    "category": "Dal & Rice",
+    "name": "Masala Rice",
+    "price": "₹180",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr014",
+    "category": "Dal & Rice",
+    "name": "Schezwan Rice",
+    "price": "₹250",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr015",
+    "category": "Dal & Rice",
+    "name": "Veg Fried Rice",
+    "price": "₹220",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr016",
+    "category": "Dal & Rice",
+    "name": "Veg Pulao",
+    "price": "₹200",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr017",
+    "category": "Dal & Rice",
+    "name": "Veg Biryani",
+    "price": "₹240",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr018",
+    "category": "Dal & Rice",
+    "name": "Manchurian Rice",
+    "price": "₹230",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr019",
+    "category": "Dal & Rice",
+    "name": "Dum Veg Biryani",
+    "price": "₹280",
+    "description": "Guest's Fav",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr020",
+    "category": "Dal & Rice",
+    "name": "Veg Hyderabadi Biryani",
+    "price": "₹270",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "dr021",
+    "category": "Dal & Rice",
+    "name": "Paneer Tikka Biryani",
+    "price": "₹280",
+    "description": "NEW",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "nv001",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Boil Egg",
+    "price": "₹40",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv002",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Half Fry",
+    "price": "₹70",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv003",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Egg Bhurji",
+    "price": "₹70",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv004",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Egg Kheema",
+    "price": "₹80",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv005",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Egg Roll",
+    "price": "₹120",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv006",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Boil Fry",
+    "price": "₹50",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv007",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Omelette",
+    "price": "₹70",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv008",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Boil Egg Bhurji",
+    "price": "₹80",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv009",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Tandoori Egg",
+    "price": "₹150",
+    "description": "NEW",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv010",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Chicken Roll",
+    "price": "₹150",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nv011",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Egg Pakoda",
+    "price": "₹150",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nv012",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Chicken Oil Roast",
+    "price": "₹230",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nv013",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Fish Gravy Roast",
+    "price": "₹270",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nv014",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Fish Fry",
+    "price": "₹200",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nv015",
+    "category": "Non-Veg Pakoda & Starters",
+    "name": "Fish Bhuna",
+    "price": "₹280",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn001",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Tikka",
+    "price": "₹250",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn002",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Reshmi Tikka",
+    "price": "₹320",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn003",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Boti Tikka",
+    "price": "₹290",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn004",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Bonanza Tikka",
+    "price": "₹260",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn005",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Royal Tikka",
+    "price": "₹300",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn006",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Angara Tikka",
+    "price": "₹330",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn007",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Afghani Tikka",
+    "price": "₹290",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn008",
+    "category": "Tandoori Non-Veg",
+    "name": "Mutton Lahori Chop",
+    "price": "₹320",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn009",
+    "category": "Tandoori Non-Veg",
+    "name": "Mutton Galauti Kebab",
+    "price": "₹350",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn010",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Seekh Kebab",
+    "price": "₹310",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn011",
+    "category": "Tandoori Non-Veg",
+    "name": "Mutton Seekh Kebab",
+    "price": "₹360",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn012",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Hariyali Tikka",
+    "price": "₹270",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn013",
+    "category": "Tandoori Non-Veg",
+    "name": "Tandoori Chicken (Half / Full)",
+    "price": "₹260 / ₹480",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn014",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Seekh (Half / Full)",
+    "price": "₹320 / ₹570",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn015",
+    "category": "Tandoori Non-Veg",
+    "name": "Baby Chicken (Half / Full)",
+    "price": "₹400 / ₹700",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn016",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Bangadi Kebab",
+    "price": "₹500",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn017",
+    "category": "Tandoori Non-Veg",
+    "name": "Tandoori Guldasta",
+    "price": "₹330",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn018",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken DrumStick",
+    "price": "₹340",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn019",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Achari Tikka",
+    "price": "₹280",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "tn020",
+    "category": "Tandoori Non-Veg",
+    "name": "Chicken Sesami Kebab",
+    "price": "₹300",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn001",
+    "category": "Chinese Non-Veg",
+    "name": "Anda Chilli",
+    "price": "₹160",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "cn002",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Chilli (Half / Full)",
+    "price": "₹260 / ₹470",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn003",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken 65 (Half / Full)",
+    "price": "₹280 / ₹500",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn004",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Black Pepper",
+    "price": "₹270",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn005",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Chilli Mili",
+    "price": "₹280",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn006",
+    "category": "Chinese Non-Veg",
+    "name": "Chinese Chicken Cutlet",
+    "price": "₹320",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn007",
+    "category": "Chinese Non-Veg",
+    "name": "Fish Chilli",
+    "price": "₹310",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn008",
+    "category": "Chinese Non-Veg",
+    "name": "Fish American Nuts",
+    "price": "₹300",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn009",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Dragon Chilli",
+    "price": "₹300",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn010",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Saute",
+    "price": "₹280",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn011",
+    "category": "Chinese Non-Veg",
+    "name": "Chinese Sizzler",
+    "price": "₹380",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn012",
+    "category": "Chinese Non-Veg",
+    "name": "Chicken Garlic Chilli",
+    "price": "₹340",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn013",
+    "category": "Chinese Non-Veg",
+    "name": "Fish Black Pepper",
+    "price": "₹310",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "cn014",
+    "category": "Chinese Non-Veg",
+    "name": "Mutton American Nuts",
+    "price": "₹370",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "br001",
+    "category": "Biryani",
+    "name": "Egg Biryani",
+    "price": "₹230",
+    "description": "Guest's Fav",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "br002",
+    "category": "Biryani",
+    "name": "Chicken Biryani",
+    "price": "₹270",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "br003",
+    "category": "Biryani",
+    "name": "Chicken Hyderabadi Dum Biryani",
+    "price": "₹290",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "br004",
+    "category": "Biryani",
+    "name": "Fish Biryani",
+    "price": "₹260",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "br005",
+    "category": "Biryani",
+    "name": "Egg Rice",
+    "price": "₹190",
+    "description": "Guest's Fav",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "br006",
+    "category": "Biryani",
+    "name": "Chicken Fried Rice",
+    "price": "₹240",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "br007",
+    "category": "Biryani",
+    "name": "Mutton Biryani",
+    "price": "₹290",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm001",
+    "category": "Non-Veg Main Course",
+    "name": "Anda Curry",
+    "price": "₹150",
+    "description": "Guest's Fav",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nm002",
+    "category": "Non-Veg Main Course",
+    "name": "Anda Masala",
+    "price": "₹160",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nm003",
+    "category": "Non-Veg Main Course",
+    "name": "Anda Bhurji Curry",
+    "price": "₹160",
+    "description": "",
+    "dietType": "EGG",
+    "available": true
+  },
+  {
+    "id": "nm004",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Curry",
+    "price": "₹240",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm005",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Masala",
+    "price": "₹250",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm006",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Bhuna",
+    "price": "₹270",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm007",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Patiyala",
+    "price": "₹280",
+    "description": "NEW",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm008",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Tikka Masala",
+    "price": "₹300",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm009",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Butter Masala",
+    "price": "₹260",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm010",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Mughlai",
+    "price": "₹270",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm011",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Pulhani",
+    "price": "₹270",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm012",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Angara",
+    "price": "₹280",
+    "description": "Sizzler",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm013",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Kolapuri Masala",
+    "price": "₹290",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm014",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Seekh Masala",
+    "price": "₹300",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm015",
+    "category": "Non-Veg Main Course",
+    "name": "Fish Curry",
+    "price": "₹240",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm016",
+    "category": "Non-Veg Main Course",
+    "name": "Fish Tikka Masala",
+    "price": "₹290",
+    "description": "Guest's Fav",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm017",
+    "category": "Non-Veg Main Course",
+    "name": "Mutton Masala",
+    "price": "₹290",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm018",
+    "category": "Non-Veg Main Course",
+    "name": "Mutton Bhuna (4pc / 16pc)",
+    "price": "₹290 / ₹780",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm019",
+    "category": "Non-Veg Main Course",
+    "name": "Chicken Kadhai",
+    "price": "₹270",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm020",
+    "category": "Non-Veg Main Course",
+    "name": "Fish Masala",
+    "price": "₹250",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm021",
+    "category": "Non-Veg Main Course",
+    "name": "Mutton Curry",
+    "price": "₹280",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm022",
+    "category": "Non-Veg Main Course",
+    "name": "Mutton Saoji",
+    "price": "₹300",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nm023",
+    "category": "Non-Veg Main Course",
+    "name": "Mutton Bhuna (Half / Full)",
+    "price": "₹420 / ₹780",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nh001",
+    "category": "Non-Veg Handi",
+    "name": "Chicken Masala Handi (Half / Full)",
+    "price": "₹400 / ₹700",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nh002",
+    "category": "Non-Veg Handi",
+    "name": "Chicken Tikka Masala Handi (Half / Full)",
+    "price": "₹450 / ₹780",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nh003",
+    "category": "Non-Veg Handi",
+    "name": "Butter Chicken Handi (Half / Full)",
+    "price": "₹400 / ₹790",
+    "description": "Guest's Fav · Sweet",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nh004",
+    "category": "Non-Veg Handi",
+    "name": "Fish Handi (Half / Full)",
+    "price": "₹380 / ₹750",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "nh005",
+    "category": "Non-Veg Handi",
+    "name": "Mutton Curry Handi (Half / Full)",
+    "price": "₹450 / ₹840",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "bd001",
+    "category": "Breads",
+    "name": "Tawa Roti",
+    "price": "₹15",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd002",
+    "category": "Breads",
+    "name": "Butter Tandoori Roti",
+    "price": "₹20",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd003",
+    "category": "Breads",
+    "name": "Tawa Paratha",
+    "price": "₹25",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd004",
+    "category": "Breads",
+    "name": "Paneer Paratha",
+    "price": "₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd005",
+    "category": "Breads",
+    "name": "Veg Paratha",
+    "price": "₹60",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd006",
+    "category": "Breads",
+    "name": "Butter Naan",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd007",
+    "category": "Breads",
+    "name": "Cheese Garlic Naan",
+    "price": "₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd008",
+    "category": "Breads",
+    "name": "Lacha Paratha",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd009",
+    "category": "Breads",
+    "name": "Aloo Paratha",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd010",
+    "category": "Breads",
+    "name": "Plain Naan",
+    "price": "₹40",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd011",
+    "category": "Breads",
+    "name": "Garlic Naan",
+    "price": "₹60",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd012",
+    "category": "Breads",
+    "name": "Kashmiri Naan",
+    "price": "₹100",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd013",
+    "category": "Breads",
+    "name": "Plain Kulcha",
+    "price": "₹50",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd014",
+    "category": "Breads",
+    "name": "Tandoori Roti",
+    "price": "₹15",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd015",
+    "category": "Breads",
+    "name": "Garlic Roti",
+    "price": "₹30",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd016",
+    "category": "Breads",
+    "name": "Cheese Garlic Roti",
+    "price": "₹35",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd017",
+    "category": "Breads",
+    "name": "Stuff Kulcha",
+    "price": "₹70",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "bd018",
+    "category": "Breads",
+    "name": "Bhature",
+    "price": "₹30",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "my001",
+    "category": "Make Your Own",
+    "name": "Chicken Charges",
+    "price": "1 kg: ₹260 | ½ kg: ₹170",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "my002",
+    "category": "Make Your Own",
+    "name": "Fish Charges",
+    "price": "1 kg: ₹260 | ½ kg: ₹170",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "my003",
+    "category": "Make Your Own",
+    "name": "Mutton Charges",
+    "price": "1 kg: ₹280 | ½ kg: ₹180",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "my004",
+    "category": "Make Your Own",
+    "name": "Layer",
+    "price": "1 kg: ₹300 | ½ kg: ₹190",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "my005",
+    "category": "Make Your Own",
+    "name": "Paya / Kima",
+    "price": "1 kg: ₹300 | ½ kg: ₹190",
+    "description": "",
+    "dietType": "NON-VEG",
+    "available": true
+  },
+  {
+    "id": "ex001",
+    "category": "Extras",
+    "name": "Water Bottle",
+    "price": "250ml: ₹15 | 750ml: ₹25",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "ex002",
+    "category": "Extras",
+    "name": "Cold Drink",
+    "price": "250ml: ₹25 | 750ml: ₹80",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "ex003",
+    "category": "Extras",
+    "name": "Ice Cream",
+    "price": "MRP + ₹5",
+    "description": "",
+    "dietType": "VEG",
+    "available": true
+  },
+  {
+    "id": "ex004",
+    "category": "Extras",
+    "name": "Extra Gravy",
+    "price": "100",
+    "description": "Get extra gravy with any Main Course or Biryani",
+    "dietType": "VEG",
+    "available": true
+  }
+]
