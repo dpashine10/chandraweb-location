@@ -14,7 +14,7 @@ const RESTAURANT_LNG = 80.3771933; // TODO: replace with your restaurant's longi
 // GPS is rarely exact, especially indoors — 150-250m is a sane starting
 // point. Go too tight (e.g. 20m) and real customers inside the building
 // may get rejected because their GPS fix is slightly off.
-const ALLOWED_RADIUS_METERS = 100;
+const ALLOWED_RADIUS_METERS = 150;
 // ──────────────────────────────────────────────────────────────────────
 
 type Status =
